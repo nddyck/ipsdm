@@ -12,6 +12,8 @@ The Components are by no means insolated from each other, they all act together 
        - "plea for self-restraint"
  - Interplanatary 
    - "eyes" asteroid prevention
+   - making friends
+      -what are the challenges here: we are bad enough at earthbound friendship
  - Mystery
    - technology development
    - source of truth 
