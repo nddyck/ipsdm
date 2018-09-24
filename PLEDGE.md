@@ -18,3 +18,8 @@
 strive, excel, embrace, illuminate, awaken, excitement, open-mindedness 
 goal-oriented, betterment, decision-making, honesty, humility, wonder, apathy, 
 rationality, pursuit, cyclic thinking,
+
+
+ - appologize directly for your wrongdoings (which have already had time to heal)
+ - offer forgiveness to those who have wronged you (for circumstances which have had time to heal, still maintaining distance if nessisary) 
+ -  
