@@ -1,8 +1,8 @@
 # General 
 
 The Interplanetary Self-Defense Mechanism (IPSDM) is humanities fail-safe.  The
-self appears when _it_ realizes itself as that which can be obliterated, and must
-act to avoid injury. 
+_self_ appears when _it_ realizes itself as that which can be obliterated, and
+must act to avoid injury. 
 
 The idea of a shared common fate is the beginning of a new kind of thinking
 which mature into an altogether new form of self. The mechanism's _self_ is
