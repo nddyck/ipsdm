@@ -14,6 +14,15 @@ TODO
  - describe proposal categories and delegated democracy 
  - describe voting power based on attribute or characteristics or proportional amount people are affected by the issue being voted on
  - describe the tokenized "brain" and the character attributes addresses can gain
+    - Attributes:
+      - Rationality (/irrationality) 
+      - Inclusive (Compassionate)
+      - Visionary 
+      - Accurate (technical?) 
+      - Insightful
+      - Sexy 
+      - (extra: Delightfulness) 
+      - (extra: Articulate) 
  - describe token creation redistribution models
  - describe identity verification mechanisms
  - describe stably "increasing" coin 
