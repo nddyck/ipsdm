@@ -1,5 +1,5 @@
 TODO use the words: Autonomous, full fruition, aggregation, amalgomate,
-illuminate, awaken, strive, pursuit, apathy, 
+illuminate, awaken, strive, pursuit, apathy, shelling-point.
 
 # The Interplanetary Self-Defense Mechanism
 
@@ -7,11 +7,15 @@ The Interplanetary Self-Defense Mechanism (IPSDM) is humanities fail-safe.  The
 _self_ appears when _it_ realizes itself as that which can be obliterated, and
 must act to avoid injury. 
 
-A decentralized public institution for the humans of earth
+A decentralized public institution for the humans of earth, the type of 
+system which can maintain and execute a 1000 year plan. 
 
-The Human Consensus engine
 
-Capacity for humankind to self-organize, re-organize, and decentralize. 
+
+To allow the people of earth to represent themselves, we must build 
+the capacity for humankind to self-organize, re-organize, and decentralize. 
+A form of human consensus engine, analogous to on network consensus engines. 
+
 
 Seeded in a world driven by self-interest, greed, and control, The Mechanism
 must of an unkillable nature in order to fulfill its potentiality.  To attain
@@ -38,10 +42,7 @@ we must break free from the shackles of hatred, and transend our programming,
 bring forth a new overwhelming wave of peace and rational decision process &
 reinstate a sense of wonder about the world for those who've lost it. 
 
-the formation of a new paradimn predecated on truth
-
-it then follws that all coordintion between individuals should be premised as
-not a question of beliefs but an inquery of the truth
+first and foremost we must not reject the existence of truth. 
 
 truth is the common fabris of non-denominational coordination. To arrive and
 agree upon the truth is to form the foundation on which decisions can be made
@@ -49,6 +50,11 @@ An attribute of the truth is that is hould be fair. Truth which is fait to
 people their experiences and the facts. Truth in this context is defined as
 that which can be arrived at as the truth through rational discourase and that
 which is fair. 
+
+it then follws that all coordintion between individuals should be premised as
+not a question of beliefs but an inquery of the truth
+
+Formating a new paradimn predecated on truth. 
 
 the basis for creation of any larger or smaller group for which collective
 actions can be taken is the basis of interpreting the truth.  Wherther that be
@@ -72,6 +78,35 @@ getting rid of fragmentation, but managing plurality alongside unity. The one
 and the many, under the same yoke, a paradox, never definitely resolved or
 stable, but basically creative. 
 
+The primary act of self defense of humanities self is that we must voluntarily
+as individuals, disarm ourselves from dogmatic and untrue beliefs whih
+interfere with our capacit to form consensus and have the tendancy to result in
+aggressive behaviours and conlict in a multitude of forms. 
+
+precipitating out, consilidation of thinking, modes of rationalization, and
+experienced realities which form the foundation of a hyper-oneness, a true
+unity which can persist through explicitness combined with openness. 
+
+
+The IPSDM community must be predicated on non-malciousness and rectfulness of
+all forms.  Issues need to be worked through collectively as a community in
+order to ensure that problematic behaviours are understood, prevented,
+reversed, adn transformed into positive actions and not relegated to the depths
+of external communities which are accepting towards problematic behaviours and
+allow for a culture of hate and irrationality.  
+
+We should not be needlessly bound by out past, not as individuals, not as a
+people.  We can ensure that we collectively transent our negative tendancies
+through the implementaitons of genuine inclusive systems which seek to correct
+behaviour. Only through true unity can we consolidate enough might to sway 
+the course of civilization on earth towards positive outcomes forever.
+
+The IPSDM exists within a self-corrective modality. Constantly shifting and
+growing as the context of humanity changes. The full fruitiion of the IPSDM is
+its the greatest possible fully rigourized contemplation of the world, its
+challenges, and path to resolution, however this can only ever exist localized
+within the its time and is therefor temorary, and can only ever be relatively
+fulfilled.  
 
 
 Self enforced structure of rationality of which all decisions are constructed
@@ -82,6 +117,9 @@ to larger decision maps.  This of course must be combined with democratic
 decision process based on the amount individuals are affected by issues. The
 community must then lefimaize the use of the decision map for ther usage. to be
 appropriate. the decision map of the thought is a consitution in this regard. 
+
+The decision map is constantly expanding streamlining, clarifying, and gaining
+consent to further its legitamecy. 
 
 The IPSDM may be thought of as a dictatorship of rationality and logic, even
 though it is of course radically opposite from the historical and current
@@ -127,11 +165,20 @@ process may sseem to be slow at the ignition of the mechanism, broad base
 consensus prodeedures ensure system wise long term operation even as the
 mechanism accelerates to inexplicable speeds. 
 
+This governance interface should strive to be an infinite outlet for thought
+work such that indiviudals have no maximum cap to the amount of expendature
+which can be directed at the ipsdm and which they can be confident that all
+energy engaged with the network will ultimately push humanity towards positive
+outcomes. All capable hands, independant of title or qualifications should feel
+that they are able to participate in, learn from, and contribute to governance
+at any capacity.  
+
+
 The IPSDM is a subset of a larger set of decentralized governance
 systems/abstractions which can exist and interact to form a global community In
 this way the IPSDM is incentivized to maintin the larger state space of
 decentralized governance abstractions to encourage the formation of new
-communities which grow the netwwwork of global explicit interations and
+communities which grow the network of global explicit interations and
 potentiall to contribute within the decision map of the IPSDM 
 
 This wider set of decentralized governance systems/abstractions should quite
@@ -183,6 +230,7 @@ Thus these forms of decentralized governance are qualitative yet explicit while
 simultaniously maintain certain elements of a quantitative economy, which eases
 integration with traditional money oriented systems. 
 
+
 to assume that everything can and should be boiled down to an economic issue,
 or an issue of simplistic quantifications are the result of a materialistic
 mindset out of touch with the absolutely unique reality which all concious
@@ -194,6 +242,17 @@ explainability, which does of course take place over discourse in the world of
 ideas, which both contain both quantitative and qualitative analysis in an
 attempt to dicern the effective truth. Quantitative analysis should be viewed
 as a discrete subset of qualitative analysis, as quantities are also qualities. 
+
+The IPSDM should prize the _realm of ideas_ over the material world. The
+creators expressors and conduits of ideas (namely people) should be valued over
+material possession. This can be extrapolated to convey that all people both at
+their best and words should be protected to a greater degree than property and
+posessions in all cases. Additionally we should be safegaurding the means of
+communicating ideas, namely books, the internet etc. above all ownership models
+which may currently dictate the usage of said systems.  This infrastructure
+which ensures the continued growth of humanity through communication must be
+intellegently managed and never denied to the public, and ideally collectively
+owned by the people as a whole. 
 
 for the most people have largely not allowed themselves a means of coordinated
 democratic qualitative negotion but instead relegated the vast majority of
@@ -207,6 +266,10 @@ bigger, when used properly the utility of quantified value systems has
 undeniable benifits for resource allocation however we should not allow all
 decisions to default to quantification issues in the face of new tools which
 can allow us to arrive at rational decisions transparently and in consensus. 
+
+we must proverbially and literally five the schools back to the kinds from
+which all misaligned incentives present within the existing centralized
+governance systems may be rectified
 
 Societies are create as mono cultures, unadaptable econogically non-diverse,
 whereby disease may rapidly spread through the tentrils of the heighachies,
@@ -247,7 +310,10 @@ Additional safeguards for the community could be provided such as on-chain
 “safety-deposits” which all members of special permissioned groups must provide
 to the community as a whole.
 
- 
+no inferiority nor superiority with regards to the value of human life should
+be called forward.  Independant of race religion gender social class,
+language-spoken. beliefs or lack therof, privledge, title, or any form of
+concievable classification ehich distinguishes between human life forms. 
 
 
 
@@ -255,19 +321,6 @@ to the community as a whole.
 
 
 
-
-
-
-
-
-RAW 
-
-The IPSDM exists within a self-corrective modality. Constantly shifting and
-growing as the context of humanity changes. The full fruitiion of the IPSDM is
-its the greatest possible fully rigourized contemplation of the world, its
-challenges, and path to resolution, however this can only ever exist localized
-within the its time and is therefor temorary, and can only ever be relatively
-fulfilled.  
 
 
 
